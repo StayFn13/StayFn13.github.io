@@ -1,0 +1,164 @@
+h1 
+{
+	
+	text-align: center;
+	font-family: Cambria;
+	font-style: italic;
+	color: white;
+	font-size: 20px;
+}
+
+p
+{
+	text-align: center;
+	font-family: Cambria;
+	font-style: italic;
+	color: white;
+	font-size: 30px;
+
+}	
+
+
+body
+{
+	
+	background-color: #36393F;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.header
+{
+	background-color: black;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 10px;
+    background-color: black;
+    border-radius: 200px;
+    box-shadow: 6px 6px 50px rgba(0, 0, 0, 0.5);
+    padding: 2px;
+}
+	
+img
+{
+	width: 300px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 200px;
+	position: relative;
+	top: 40px; right: 50px;
+}
+
+
+
+
+  li a {
+	display: block;
+	color: white;
+	padding: 10px; 
+	text-align:center;
+	font-size:25px;
+	text-decoration: none;
+	position: relative;
+	top: -83px; right: -50px;
+  }
+  
+  li a:hover {
+	background-color: #464646;;
+	color: black;
+	text-decoration: none;
+	position: relative;
+	border-radius: 10px;
+  }
+  
+  li {
+		/*float:left;*/
+		display: inline-block;
+		width : 120px;
+		position: relative;
+		top: 10px;
+	}
+
+
+p1 {
+	font-size: 50px;
+	font-weight: bold;
+	color: white;
+	position: relative;
+	right: -1px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 50px;
+	
+}
+
+br {
+	padding: 30px;
+	display: block;
+}
+
+p2 {
+	position: relative;
+	left: 30px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 35px;
+	font-size: 18px;
+
+}
+
+.imageAT {
+	border-radius: 10px;
+	position: relative;
+	right: 500px;
+	width: 200px;
+} 
+
+.para {
+	padding: 80px;
+}
+
+div {
+	position: relative;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 35px;
+	font-size: 18px;
+}
+
+.Promax {
+	padding: 40px;
+}
+
+.Promax2 {
+	padding: 40px;
+}
+
+p3 {
+	position: relative;
+	bottom: -60px;
+	
+}
+
+
+.Text {
+	padding: 40px;
+}
+
+
+
+.progameur{
+	
+	width: 300px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	top: 40px; right: 50px;
+}
+
